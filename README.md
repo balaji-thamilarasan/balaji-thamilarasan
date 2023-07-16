@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
 <h3 align="center">A passionate Software Engineer - (frontend)</h3>
 
-- 🔭 I’m currently working on Pepperfry **Pepperfry.com**
+- 🔭 I’m currently working on **Pepperfry.com**
 
 - 🌱 I’m currently learning **Nextjs**
 
